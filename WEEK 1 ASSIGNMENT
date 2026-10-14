@@ -1,0 +1,14 @@
+# Week 1 Assignment: My Intro Program
+
+```python
+# This program introduces me, shares my favorite programming language, and states my goal for this course.
+name = "Monykuer"
+age = 25
+favorite_language = "Python"
+course_goal = "build practical web applications and master automation"
+
+print(f"Hello! My name is {name}.")
+print(f"I am {age} years old.")
+print(f"My favorite programming language is {favorite_language}.")
+print(f"My goal for this course is to {course_goal}.")
+```
